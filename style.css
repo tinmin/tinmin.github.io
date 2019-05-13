@@ -1,7 +1,9 @@
-h1 {
-	font: helvetica;
+.text {
+	font-family: Helvetica;
 }
-
+a {
+	
+}
 nav {
 	margin-left: 300px;
 }
