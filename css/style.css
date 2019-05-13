@@ -9,5 +9,8 @@ nav {
 	
 }
 footer {
-	margin-top: bottom;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	
 }
