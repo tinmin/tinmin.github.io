@@ -9,8 +9,11 @@ a {
 }
 nav {
 	left: 300px;
-	position: inline;
+	top: 50px;
 	word-spacing: 20px;
+}
+a.gallery {
+	padding: 10px;
 }
 footer {
 	position: fixed;
