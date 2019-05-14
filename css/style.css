@@ -1,6 +1,5 @@
 h1 {
 	font-family: Helvetica;
-	position: float;
 }
 p {
 	font-family: Helvetica;
@@ -9,8 +8,10 @@ a {
 	font-family: Helvetica;
 }
 nav {
-	margin-left: 300px;
-	
+	top: 0;
+	left: 300px;
+	position: fixed;
+	word-spacing: 10px;
 }
 footer {
 	position: fixed;
