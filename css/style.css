@@ -8,10 +8,9 @@ a {
 	font-family: Helvetica;
 }
 nav {
-	top: 0;
 	left: 300px;
-	position: fixed;
-	word-spacing: 10px;
+	position: inline;
+	word-spacing: 20px;
 }
 footer {
 	position: fixed;
