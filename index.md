@@ -123,7 +123,7 @@ The final element.
 ```
 <div class="row">
   <div class="column">
-    <img src="wedding.jpg">
+    <img src="img014.jpg">
     <img src="rocks.jpg">
     <img src="falls2.jpg">
     <img src="paris.jpg">
