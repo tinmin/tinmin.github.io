@@ -15,7 +15,7 @@ layout: default
     <img src="assets/img/img019.jpg">
     <img src="assets/img/img018.jpg">
     <img src="assets/img/img016.jpg">
-    <img src="assets/img/img015.jpg">
+    <img src="assets/img/img013.jpg">
   </div>
 
 
