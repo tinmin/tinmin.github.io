@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-![gal1]("assets/img/img003.jpg")
-<div class="row">
+
+
+
   <div class="column">
     <img src="assets/img/img003.jpg">
     <img src="assets/img/img005.jpg">
@@ -17,7 +18,7 @@ layout: default
     <img src="assets/img/img015.jpg">
   </div>
 
-</div>
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
