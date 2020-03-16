@@ -17,14 +17,6 @@ layout: default
     <img src="wedding.jpg">
     <img src="rocks.jpg">
     <img src="falls2.jpg">
-    <img src="paris.jpg">
-
-  </div>
-  <div class="column">
-    <img src="underwater.jpg">
-    <img src="ocean.jpg">
-    <img src="wedding.jpg">
-    
   </div>
 </div>
 
