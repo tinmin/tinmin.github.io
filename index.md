@@ -2,7 +2,9 @@
 layout: default
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x-pcJ29viFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![miraj](https://i.ytimg.com/vi/x-pcJ29viFw/maxresdefault.jpg)](https://youtu.be/x-pcJ29viFw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WMPhc5s08Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r6F_tJ0OhCI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/xMChCCPkedk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   <div class="column">
     <a class="image-popup-fit-width" href="assets/img/img003.jpg"><img src="assets/img/img003.jpg">
