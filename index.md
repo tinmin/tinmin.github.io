@@ -4,19 +4,19 @@ layout: default
 
 <div class="row">
   <div class="column">
-    <img src="assets/img/img014.jpg">
-    <img src="rocks.jpg">
-    <img src="falls2.jpg">  
-  </div>
-  <div class="column">
     <img src="assets/img/img003.jpg">
-    <img src="ocean.jpg">
-    <img src="wedding.jpg">
+    <img src="assets/img/img005.jpg">
+    <img src="assets/img/img006.jpg">  
   </div>
   <div class="column">
-    <img src="wedding.jpg">
-    <img src="rocks.jpg">
-    <img src="falls2.jpg">
+    <img src="assets/img/img020.jpg">
+    <img src="assets/img/img019.jpg">
+    <img src="assets/img/img018.jpg">
+  </div>
+  <div class="column">
+    <img src="assets/img/img012.jpg">
+    <img src="assets/img/img013.jpg">
+    <img src="assets/img/img015.jpg">
   </div>
 </div>
 
