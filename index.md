@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<div id="overlay">
 <div class="row">
   <div class="column">
     <img src="assets/img/img014.jpg">
@@ -18,6 +18,7 @@ layout: default
     <img src="rocks.jpg">
     <img src="falls2.jpg">
   </div>
+</div>
 </div>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
