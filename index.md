@@ -5,17 +5,17 @@ layout: default
 
 
   <div class="column">
-    <img src="assets/img/img003.jpg">
-    <img src="assets/img/img005.jpg">
-    <img src="assets/img/img006.jpg">
-    <img src="assets/img/img007.jpg">
-    <img src="assets/img/img012.jpg">
+    <a class="image-popup-no-margins" href=><img src="assets/img/img003.jpg"></a>
+    <a class="image-popup-no-margins" href=><img src="assets/img/img005.jpg"></a>
+    <a class="image-popup-no-margins" href=><img src="assets/img/img006.jpg"></a>
+    <a class="image-popup-no-margins" href=><img src="assets/img/img007.jpg"></a>
+    <a class="image-popup-no-margins" href=><img src="assets/img/img012.jpg"></a>
 
-    <img src="assets/img/img020.jpg">
-    <img src="assets/img/img019.jpg">
-    <img src="assets/img/img018.jpg">
-    <img src="assets/img/img016.jpg">
-    <img src="assets/img/img013.jpg">
+    <a class="image-popup-no-margins" href=><img src="assets/img/img020.jpg"></a>
+    <a class="image-popup-no-margins" href=><img src="assets/img/img019.jpg"></a>
+    <a class="image-popup-no-margins" href=><img src="assets/img/img018.jpg"></a>
+    <a class="image-popup-no-margins" href=><img src="assets/img/img016.jpg"></a>
+    <a class="image-popup-no-margins" href=><img src="assets/img/img013.jpg"></a>
   </div>
 
 
