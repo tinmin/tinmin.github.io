@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+![gal1]("assets/img/img003.jpg")
 <div class="row">
   <div class="column">
     <img src="assets/img/img003.jpg">
@@ -9,7 +9,7 @@ layout: default
     <img src="assets/img/img006.jpg">
     <img src="assets/img/img007.jpg">
     <img src="assets/img/img012.jpg">
-  
+
     <img src="assets/img/img020.jpg">
     <img src="assets/img/img019.jpg">
     <img src="assets/img/img018.jpg">
