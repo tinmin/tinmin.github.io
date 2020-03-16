@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<div class="row">
+<div class="row" id="overlay">
   <div class="column">
     <img src="assets/img/img014.jpg">
     <img src="rocks.jpg">
