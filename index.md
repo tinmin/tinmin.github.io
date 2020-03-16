@@ -9,7 +9,7 @@ layout: default
     <img src="falls2.jpg">  
   </div>
   <div class="column">
-    <img src="underwater.jpg">
+    <img src="assets/img/img003.jpg">
     <img src="ocean.jpg">
     <img src="wedding.jpg">
   </div>
