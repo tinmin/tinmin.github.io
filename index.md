@@ -6,18 +6,18 @@ layout: default
   <div class="column">
     <img src="assets/img/img003.jpg">
     <img src="assets/img/img005.jpg">
-    <img src="assets/img/img006.jpg">  
+    <img src="assets/img/img006.jpg">
+    <img src="assets/img/img007.jpg">
+    <img src="assets/img/img012.jpg">
   </div>
   <div class="column">
     <img src="assets/img/img020.jpg">
     <img src="assets/img/img019.jpg">
     <img src="assets/img/img018.jpg">
-  </div>
-  <div class="column">
-    <img src="assets/img/img012.jpg">
-    <img src="assets/img/img013.jpg">
+    <img src="assets/img/img016.jpg">
     <img src="assets/img/img015.jpg">
   </div>
+
 </div>
 
 
