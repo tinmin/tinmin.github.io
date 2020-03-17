@@ -2,8 +2,9 @@
 layout: default
 ---
 
-## art
+## works
 
-_yay_
+<img src="https://loremflickr.com/500/350/35mm" />
+<img src="https://loremflickr.com/500/350/35mm" />
 
 [back](./)
