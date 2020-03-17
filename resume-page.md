@@ -4,6 +4,10 @@ layout: default
 
 ## resumes
 
-_yay_
+_medical laboratory technologist_
+
+_data_
+
+_designer_
 
 [back](./)
