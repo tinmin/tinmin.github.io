@@ -2,9 +2,7 @@
 layout: default
 ---
 
-## resumes
-
-#hire me as
+##hire me as
 
 [medical laboratory technologist](./--.html)
 
