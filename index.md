@@ -13,7 +13,6 @@ layout: default
     </a>
     <a class="image-popup-fit-width" href="assets/img/img012.jpg"><img src="assets/img/img012.jpg">
     </a>
-
     <a class="image-popup-fit-width" href="assets/img/img020.jpg"><img src="assets/img/img020.jpg">
     </a>
     <a class="image-popup-fit-width" href="assets/img/img019.jpg"><img src="assets/img/img019.jpg">
