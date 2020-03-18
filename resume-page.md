@@ -4,7 +4,20 @@ layout: default
 
 ## resumes
 
-_medical laboratory technologist_
+<details>
+  <summary>medical laboratory technologist</summary>
+  ##skills
+  *background in science
+  *
+  ## experience
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+
+  ##education
+
+</details>
 
 _data_
 
