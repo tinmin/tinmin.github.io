@@ -4,23 +4,12 @@ layout: default
 
 ## resumes
 
-<details>
-  <summary>medical laboratory technologist</summary>
+#hire me as
 
-##skills
-  *background in science
-  *
-##experience
-     * With some
-     * Sub bullets
+[medical laboratory technologist](./--.html)
 
-  ##education
+[data](./--.html)
 
-</details>
-
-
-_data_
-
-_designer_
+[designer](./--.html)
 
 [back](./)
