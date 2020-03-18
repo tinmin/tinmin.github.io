@@ -4,7 +4,7 @@ layout: default
 
 ## hire me as
 
-![](assets/img/data.png)
+<img src="assets/img/data.png" width="50px" height="50px">
 [medical laboratory technologist](./--.html)
 
 _or_
