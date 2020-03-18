@@ -4,17 +4,17 @@ layout: default
 
 ### hire me as
 
-:microscope:
+[:microscope:]
 [medical laboratory technologist](./--.html)
 
 _or_
 
-:octocat:
+[:octocat:]
 [data](./--.html)
 
 _or_
 
-:art:
+[:art:]
 [designer](./--.html)
 
 [back](./)
