@@ -6,18 +6,18 @@ layout: default
 
 <details>
   <summary>medical laboratory technologist</summary>
-  ##skills
+
+##skills
   *background in science
   *
-  ## experience
-  1. A numbered
-  2. list
+##experience
      * With some
      * Sub bullets
 
   ##education
 
 </details>
+
 
 _data_
 
