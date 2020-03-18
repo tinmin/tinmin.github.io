@@ -4,7 +4,8 @@ layout: default
 
 ## hire me as
 
-<img src="assets/img/data.png" width="50px" height="50px"></br>
+<img src="assets/img/data.png" width="50px" height="50px">
+
 [medical laboratory technologist](./--.html)
 
 _or_
