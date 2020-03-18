@@ -2,9 +2,9 @@
 layout: default
 ---
 
-### hire me as
+## hire me as
 
-[:microscope:]
+![](assets/img/data.png)
 [medical laboratory technologist](./--.html)
 
 _or_
