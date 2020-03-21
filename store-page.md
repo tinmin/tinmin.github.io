@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: store
 ---
 
-## works
+## store
 
-<img src="https://loremflickr.com/500/350/kodakultramax400" />
-<img src="https://loremflickr.com/500/350/kodakultramax400,kodakultramax" />
+{% for product in site.products %}
+ {% include product.html %}
+{% endfor %}
 
 [back](./)
