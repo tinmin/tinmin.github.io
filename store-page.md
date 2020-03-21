@@ -7,7 +7,17 @@ layout: default
 {% include product.html %}
 {% endfor %}
 
+{% include header.html %}
 
+  <main class="main">
+
+    <div class="products">
+
+      {{ content }}
+
+    </div>
+
+  </main>
 
 
 [back](./)
