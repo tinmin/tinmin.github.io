@@ -3,14 +3,13 @@ layout: default
 ---
 ## store
 
-{% for product in site.products %}
-{% include product.html %}
-{% endfor %}
 
 {% include header.html %}
  <main class="main">
  <div class="products">
- {{ content }}
+ {% for product in site.products %}
+ {% include product.html %}
+ {% endfor %}
  </div>
  </main>
  {% include footer.html %}
