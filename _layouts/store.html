@@ -9,7 +9,28 @@
  {% include header.html %}
  <main class="main">
  <div class="products">
- {{ content }}
+
+   <div>
+     <label for="{{ product.identifier }}-qty">Quantity:</label>
+     <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" />
+     <button
+       class="snipcart-add-item"
+       data-item-quantity="1"
+       data-item-id="{{ product.identifier }}"
+       data-item-name="{{ product.name }}"
+       data-item-price="{{ product.price }}"
+       data-item-image="{{ product.image }}"
+       data-item-url="https://demo.snipcart.com{{ page.url }}"
+       data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"
+       data-item-custom1-name="Frame color"
+       data-item-custom1-options="Black|Brown|Gold[+300.00]">
+       Buy 1 physical copy (${{ product.price }})
+
+     </button>
+
+   </div>
+
+
  </div>
  </main>
 
