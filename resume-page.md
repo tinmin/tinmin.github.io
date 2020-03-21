@@ -2,20 +2,18 @@
 layout: default
 ---
 
-## hire me as
+## resumes
 
 <img src="assets/img/data.png" width="50px" height="50px">
 
-[medical laboratory technologist](./--.html)
+[medical laboratory technologist](./mlt.html)
 
 _or_
 
-[:octocat:]
-[data](./--.html)
+[data](./dev.html)
 
 _or_
 
-[:art:]
-[designer](./--.html)
+[designer](./des.html)
 
 [back](./)
