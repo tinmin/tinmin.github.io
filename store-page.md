@@ -4,9 +4,7 @@ layout: default
 
 
 
-{% for product in site.products.html %}
-{% include product.html %}
-{% endfor %}
+
 
 
 {% include header.html %}
@@ -15,7 +13,9 @@ layout: default
 
     <div class="products">
 
-      {{ content }}
+    {% for product in site.products.html %}
+    {% include product.html %}
+    {% endfor %}
 
     </div>
 
