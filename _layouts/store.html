@@ -9,6 +9,15 @@
  {% include header.html %}
  <main class="main">
  <div class="products">
+   
+   <div class="products">
+    <div class="product__information">
+       <h2 class="product__title">{{ product.name }}</h2>
+       <p class="product__description">{{ product.content | remove: '<p>' | remove: '</p>' }}</p>
+       {% include product-definition.html %}
+    </div>
+    <img src="{{ product.image }}" alt="{{ product.name }} product image" class="product__image">
+   </div>
 
    <div>
      <label for="{{ product.identifier }}-qty">Quantity:</label>
