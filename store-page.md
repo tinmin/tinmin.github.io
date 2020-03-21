@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for product in site.products.html %}
+{% for product in site.products %}
 {% include product.html %}
 {% endfor %}
 
