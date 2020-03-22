@@ -1,6 +1,6 @@
 ---
-identifier: shirt-1
-name: shirt 1
+identifier: shirt-2
+name: shirt 2
 price: 10.00
 image: /assets/img/img012.jpg
 **---**

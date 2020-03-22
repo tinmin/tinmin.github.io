@@ -1,6 +1,6 @@
 ---
-identifier: shirt-1
-name: shirt 1
+identifier: hat
+name: hat
 price: 10.00
 image: /assets/img/img012.jpg
 **---**
