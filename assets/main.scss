@@ -55,11 +55,11 @@ audio {
 }
 
 
-.header__container {
-position: absolute;
-float: right;
-top: 100px;
-right: 100px;
+#elementId select.header__container {
+position: absolute !important;
+float: right!important;
+margin-top: 100px !important;
+margin-right: 100px !important;
 }
 
 .product {
