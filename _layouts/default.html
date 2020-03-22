@@ -2,6 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head></head>
 <body>
+  <div class="wrapper">
   <header>
     <h1><a href="{{ "/" | absolute_url }}">tin min</a></h1>
     <img src="assets\img\Untitled-1.gif" />
@@ -12,12 +13,22 @@
             <a href="./contact-page.html">contact</a>
 
   </header>
+
+<section>
+</section>
+
+<footer>
+  <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Tin Min 2020</a></small></p>
+</footer>
+
+</div>
   <main class="main">
     <div class="products">
       {{ content }}
     </div>
   </main>
-  {% include footer.html %}
+
 </body>
 <div hidden id="snipcart" data-api-key="NDE5ZTliOTUtYTEwNy00MmViLTg1NTAtMThlYWMzNjMxMTc5NjM3MjAzMzA1MTY2MTQ4MTYw"></div>
   <script src="https://cdn.snipcart.com/themes/v3.0.10/default/snipcart.js" defer></script>
