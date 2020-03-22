@@ -8,7 +8,7 @@ head: snipcart.html
 
       {% include product.html %}
 
-    {% endfor %}
+
 
 
 
