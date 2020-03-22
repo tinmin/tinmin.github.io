@@ -1,12 +1,12 @@
 ---
-layout: store
+layout: post
 title: Store
-head: snipcart.html
+
 ---
 
 
 
-      {% include product.html %}
+    
 
 
 
