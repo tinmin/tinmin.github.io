@@ -55,10 +55,9 @@ audio {
 }
 
 
-#elementId select.header__container {
-position: absolute !important;
-float: right!important;
-
+.header__container {
+position:absolute !important;
+padding-left: 320px !important;
 }
 
 .product {
