@@ -1,8 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-{% include head.html %}
+<head></head>
 <body>
-  {% include header.html %}
+  <header>
+    <h1><a href="{{ "/" | absolute_url }}">tin min</a></h1>
+    <img src="assets\img\Untitled-1.gif" />
+
+            <a href="./store.html">store</a></br>
+            <a href="./resume-page.html">resumes</a></br>
+            <a href="./projects-page.html">projects</a></br>
+            <a href="./contact-page.html">contact</a>
+
+  </header>
   <main class="main">
     <div class="products">
       {{ content }}
