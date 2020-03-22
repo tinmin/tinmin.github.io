@@ -2,13 +2,19 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 {% include head.html %}
 <body>
+<div class="wrapper">
   {% include header.html %}
+
+  <section>
   <main class="main">
     <div class="products">
       {{ content }}
     </div>
   </main>
+</section>
   {% include footer.html %}
+
+</div>
 </body>
 <div hidden id="snipcart" data-api-key="NDE5ZTliOTUtYTEwNy00MmViLTg1NTAtMThlYWMzNjMxMTc5NjM3MjAzMzA1MTY2MTQ4MTYw"></div>
   <script src="https://cdn.snipcart.com/themes/v3.0.10/default/snipcart.js" defer></script>
