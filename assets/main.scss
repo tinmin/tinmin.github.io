@@ -54,9 +54,12 @@ audio {
 	padding: 0;
 }
 
+
 .header__container {
-position: fixed;
+position: absolute;
 float: right;
+top: 100px;
+right: 100px;
 }
 
 .product {
