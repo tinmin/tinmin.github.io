@@ -1,33 +1,32 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-<head></head>
+<head>
+<link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+</head>
 <body>
   <div class="wrapper">
   <header>
     <h1><a href="{{ "/" | absolute_url }}">tin min</a></h1>
-    <img src="assets\img\Untitled-1.gif" />
+    <img src="assets\images\Untitled-1.gif" />
 
             <a href="./store.html">store</a></br>
-            <a href="./resume-page.html">resumes</a></br>
-            <a href="./projects-page.html">projects</a></br>
-            <a href="./contact-page.html">contact</a>
+            <a href="./resume.html">resumes</a></br>
+            <a href="./projects.html">projects</a></br>
+            <a href="./contact.html">contact</a>
 
   </header>
 
 <section>
+
+
 </section>
 
 <footer>
-  <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+
         <p><small>Hosted on GitHub Pages &mdash; Tin Min 2020</a></small></p>
 </footer>
 
 </div>
-  <main class="main">
-    <div class="products">
-      {{ content }}
-    </div>
-  </main>
 
 </body>
 <div hidden id="snipcart" data-api-key="NDE5ZTliOTUtYTEwNy00MmViLTg1NTAtMThlYWMzNjMxMTc5NjM3MjAzMzA1MTY2MTQ4MTYw"></div>
