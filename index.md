@@ -25,9 +25,7 @@ layout: default
     </a>
   </div>
 
-  {% for product in site.products %}
-   {% include product.html %}
-  {% endfor %}
+
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
