@@ -1,6 +1,7 @@
 ---
 layout: store
 title: Store
+head: snipcart.html
 ---
 
 
