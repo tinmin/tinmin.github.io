@@ -25,7 +25,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://tinmin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
-
+theme: jekyll-theme-minimal
 # Build settings
 plugins:
   - jekyll-feed
