@@ -53,3 +53,16 @@ audio {
 .mfp-no-margins .mfp-container {
 	padding: 0;
 }
+
+
+
+.product {
+  flex: 100%;
+  max-width: 100%;
+  padding: 0 4px;
+}
+.product img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
