@@ -54,7 +54,10 @@ audio {
 	padding: 0;
 }
 
-
+.header__container {
+position: fixed;
+float: right;
+}
 
 .product {
   flex: 100%;
