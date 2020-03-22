@@ -4,4 +4,6 @@
 
 layout: default
 ---
-<a href="./store.html">store</a>
+{% for product in site.products %}
+  {% include product.html %}
+{% endfor %}
