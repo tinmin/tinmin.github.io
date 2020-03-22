@@ -1,8 +1,8 @@
 ---
-identifier: NM-JL-00-02
-brand: champion
-name: puffer
-price: 69.95
+identifier: hood-02
+
+name: hoodie 2
+price: 30.00
 image: ./assets/images/puffer-champion.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+black cotton

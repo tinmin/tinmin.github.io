@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vanta
-email: navalmonga04@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This store is Jekyll-built. The shopping cart runs on Snipcart.
+title: tin
+email:
+description: science
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://vanta.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: vanta.design
-github_username:  jetlaglabs
+url: "https://tinmin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:
 
 # Build settings
 plugins:

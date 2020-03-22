@@ -1,8 +1,8 @@
 ---
-identifier: NM-JL-00-01
-brand: off-white
+identifier: shirt-01
+
 name: t-shirt
-price: 69.95
+price: 20.00
 image: ./assets/images/shirt-off-white.jpg
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+black cotton
