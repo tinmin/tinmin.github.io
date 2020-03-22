@@ -5,6 +5,8 @@
 layout: default
 ---
 
+_yay_
+
 <div class="column">
     <a class="image-popup-fit-width" href="assets/images/img003.jpg"><img src="assets/img/img003.jpg">
     </a>
