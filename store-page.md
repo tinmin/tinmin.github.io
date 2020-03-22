@@ -1,5 +1,5 @@
 ---
-layout: store
+layout: default
 ---
 
 
