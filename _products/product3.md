@@ -1,8 +1,8 @@
 ---
-identifier: hat-03
+identifier: hoodie-01
 
-name: hat
-price: 10.00
+name: hoodie
+price: 30.00
 image: ./assets/images/hoodie-supreme.png
 ---
 black cotton cap

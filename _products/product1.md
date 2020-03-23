@@ -1,8 +1,8 @@
 ---
-identifier: shirt-01
+identifier: hat-01
 
-name: t-shirt
-price: 20.00
-image: ./assets/images/shirt-off-white.jpg
+name: hat
+price: 10.00
+image: ./assets/images/hat-01.png
 ---
 black cotton

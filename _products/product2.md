@@ -1,8 +1,8 @@
 ---
-identifier: hood-02
+identifier: shirt-01
 
-name: hoodie 2
-price: 30.00
-image: ./assets/images/puffer-champion.jpg
+name: shirt
+price: 20.00
+image: ./assets/images/shirt-01.jpg
 ---
 black cotton
