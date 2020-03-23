@@ -5,7 +5,7 @@
 layout: store
 ---
 
-## each item order contributes $1 donation to charity
+## each item contributes $1 to charity
 
 {% for product in site.products %}
   {% include product.html %}
