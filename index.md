@@ -5,7 +5,7 @@
 layout: default
 ---
 
-_always looking to tomorrow_
+_always looking to the next day_
 
 <div class="column">
     <a class="image-popup-fit-width" href="assets/images/img003.jpg"><img src="assets/images/img003.jpg">
