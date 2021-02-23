@@ -5,7 +5,7 @@
 layout: store
 ---
 
-_each item contributes $1 to charity_
+_stuff i worked on that you can buy_
 
 {% for product in site.products %}
   {% include product.html %}
