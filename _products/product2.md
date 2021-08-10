@@ -1,8 +1,8 @@
 ---
-identifier: shirt-01
+identifier: eprint-02
 
-name: shirt
-price: 20.00
+name: vector art 2
+price: 10.00
 image: ./assets/images/shirt-01.jpg
 ---
-black cotton
+digital file
