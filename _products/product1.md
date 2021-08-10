@@ -1,8 +1,8 @@
 ---
-identifier: hat-01
+identifier: eprint-01
 
-name: hat
-price: 10.00
+name: vector art
+price: 5.00
 image: ./assets/images/hat-01.png
 ---
-black cotton
+digital file
