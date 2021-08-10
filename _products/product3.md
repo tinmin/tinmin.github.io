@@ -1,8 +1,8 @@
 ---
-identifier: hoodie-01
+identifier: film-print-01
 
-name: hoodie
+name: photo print
 price: 30.00
-image: ./assets/images/hoodie-supreme.png
+image: ./assets/images/img003.jpg
 ---
-black cotton cap
+standard 8 x 11 physical print
