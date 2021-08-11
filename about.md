@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: works
 ---
 
 _test post_
