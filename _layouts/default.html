@@ -46,6 +46,10 @@
         <a href="https://tinmin.github.io/">donate</a><br>
         <a href="about.html">about</a>
         
+         {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">github profile</a></p>
+        {% endif %}
+        
       </header>
       <section>
 
