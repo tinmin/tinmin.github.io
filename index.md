@@ -3,7 +3,7 @@ layout: default
 ---
 
 # title1
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://picsum.photos/500/300/?blur)
 
 # store
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
